@@ -1,0 +1,29 @@
+# Build artifacts
+build/
+*.o
+*.obj
+*.exe
+*.out
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+x64/
+Debug/
+Release/
+
+# External sort temp files created at runtime
+*.tmp
+
+# OS junk
+.DS_Store
+Thumbs.db
