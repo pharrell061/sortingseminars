@@ -3,6 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="sorting/sorting.vcxproj" />
-  <Project Path="sorting_tests/sorting_tests.vcxproj" />
+  <Project Path="sorting/sorting.vcxproj" Id="00e80140-fa1d-4a79-88bd-cf4d25f66c10" />
+  <Project Path="sorting_tests/sorting_tests.vcxproj" Id="0e1bd3a7-f23d-4253-8400-08321da1b7d2" />
 </Solution>
